@@ -3,9 +3,6 @@
 ##  Repository: 
 [Mouse-Shadow](https://github.com/TBragg800/Mouse-Shadow)
 
-##  Deployed:
-[Mouse-Shadow](https://tbragg800.github.io/Mouse-Shadow/)
-
 ![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)
 ![GitHub repo size](https://img.shields.io/github/repo-size/TBragg800/Mouse-Shadow)
 
@@ -19,14 +16,13 @@
   [Questions](#Questions)
   
 ## Description
-  This is an application created by following the Javascript 30 instruction series by Wes Bos. The purpose of the exercise is 
-  . To find out more about the instruction series visit the site at [Wes Bos JavaScript 30](https://javascript30.com/)
+  This is an application created by following the Javascript 30 instruction series by Wes Bos. The purpose of the exercise is practice with the mouse move and using the offset values to dynamically update the text-shadow styling. To find out more about the instruction series visit the site at [Wes Bos JavaScript 30](https://javascript30.com/)
 
 ## Installation
   Simply clone the repo locally.
 
 ## Usage
-  Either open the index.html file in the browser of your choice or visit the github pages hosted application at [Mouse-Shadow](https://tbragg800.github.io/Mouse-Shadow/)
+  Open the index.html file in the browser of your choice.
 
 ## License
   MIT License
